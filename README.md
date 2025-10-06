@@ -16,10 +16,10 @@ pip install pandas numpy scikit-learn jupyter
 Run the Project
 bash
 # Clone this repository
-git clone https://github.com/yourusername/customer-churn-prediction.git
+git clone https://github.com/danishansarii78/Churn-prediction-streamlit.git
 
 # Navigate to project directory
-cd customer-churn-prediction
+cd Churn-prediction-streamlit
 
 # Launch Jupyter Notebook
 jupyter notebook
